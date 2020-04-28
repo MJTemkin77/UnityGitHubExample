@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 21.333334
+    x: 242
     y: 60.666668
     x: 7.3333335
     y: 50
@@ -23,7 +23,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 494}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
     y: 0
     width: 1279
     height: 1302
-  m_MinSize: {x: 950, y: 494}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -97,8 +97,12 @@ MonoBehaviour:
   m_MinSize: {x: 919, y: 444}
   m_MaxSize: {x: 22014, y: 10022}
   vertical: 0
+<<<<<<< HEAD
   controlID: 113
   controlID: 69
+=======
+  controlID: 70
+>>>>>>> UnityExample_AnotherBranchForGOs
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,8 +148,12 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
+<<<<<<< HEAD
   controlID: 36
   controlID: 108
+=======
+  controlID: 71
+>>>>>>> UnityExample_AnotherBranchForGOs
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -297,7 +305,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 583.3334
+    x: 804
     y: 90.66667
     x: 569.3334
     y: 80
@@ -307,10 +315,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: d6faffff
       m_LastClickedID: -1322
       m_SelectedIDs: d2faffff
       m_LastClickedID: -1326
+=======
+      m_SelectedIDs: 962f0000
+      m_LastClickedID: 12182
+>>>>>>> UnityExample_AnotherBranchForGOs
       m_ExpandedIDs: 76fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -356,7 +369,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1021.3334
+    x: 1242
     y: 90.66667
     x: 1007.3334
     y: 80
@@ -396,7 +409,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 787.3334
+    x: 1008
     y: 90.66667
     x: 773.3334
     y: 80
@@ -484,7 +497,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -534,7 +547,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 21.333334
+    x: 242
     y: 730.6667
     x: 7.3333335
     y: 720
@@ -617,7 +630,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 21.333334
+    x: 242
     y: 90.66667
     x: 7.3333335
     y: 80
